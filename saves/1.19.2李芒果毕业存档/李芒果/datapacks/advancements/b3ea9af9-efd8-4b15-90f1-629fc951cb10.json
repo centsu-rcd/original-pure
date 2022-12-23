@@ -1,0 +1,15 @@
+{
+  "skyblock:progression/root": {
+    "criteria": {
+      "join_skyblock_world": "2022-11-30 19:38:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-11-30 19:38:31 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

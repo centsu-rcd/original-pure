@@ -1,0 +1,40 @@
+{
+    "display": {
+        "title": {
+            "text": "一个块!",
+            "color": "green",
+            "underlined": true
+        },
+        "description": {
+            "text": "欢迎来到一个块",
+            "color": "gray"
+        },
+        "icon": {
+            "item": "minecraft:grass_block"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/block/light_blue_wool.png"
+    },
+  "criteria": {
+    "starting": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:dirt"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "starting"
+    ]
+  ]
+}

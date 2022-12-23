@@ -1,0 +1,33 @@
+{
+  "skyblock:progression/root": {
+    "criteria": {
+      "join_skyblock_world": "2022-12-06 18:06:29 +0800"
+    },
+    "done": true
+  },
+  "skyblock:progression/go_down": {
+    "criteria": {
+      "is_low": "2022-12-06 22:13:11 +0800"
+    },
+    "done": true
+  },
+  "skyblock:progression/the_end": {
+    "criteria": {
+      "entered_end": "2022-12-06 18:06:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-12-06 18:06:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-12-06 18:06:29 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

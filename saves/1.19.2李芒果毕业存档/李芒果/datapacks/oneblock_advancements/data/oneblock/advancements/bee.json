@@ -1,0 +1,39 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "我们应该成为朋友"
+        },
+        "description": {
+            "text": "得到蜂窝",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:honeycomb"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+  "criteria": {
+    "bee": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:honeycomb"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "bee"
+    ]
+  ],
+    "parent": "oneblock:bone_meal"
+}

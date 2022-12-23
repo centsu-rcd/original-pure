@@ -1,0 +1,51 @@
+{
+  "skyblock:progression/root": {
+    "criteria": {
+      "join_skyblock_world": "2022-12-10 20:32:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2022-12-05 13:26:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2022-11-28 13:57:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2022-11-29 14:10:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2022-12-05 13:26:46 +0800"
+    },
+    "done": true
+  },
+  "oneblock:down": {
+    "criteria": {
+      "down": "2022-12-10 20:45:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2022-12-05 13:26:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2022-12-05 13:26:46 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

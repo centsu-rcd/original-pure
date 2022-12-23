@@ -1,0 +1,27 @@
+{
+  "minecraft:unlock_deep_pockets_book": {
+    "criteria": {
+      "exists": "2022-11-28 21:52:25 +0800"
+    },
+    "done": true
+  },
+  "skyblock:progression/root": {
+    "criteria": {
+      "join_skyblock_world": "2022-11-28 21:52:25 +0800"
+    },
+    "done": true
+  },
+  "skyblock:progression/go_down": {
+    "criteria": {
+      "is_low": "2022-11-29 12:54:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-11-28 21:52:25 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

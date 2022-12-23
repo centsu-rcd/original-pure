@@ -1,0 +1,19 @@
+﻿{
+	"pack": {
+		"pack_format": 8,
+		"description": [
+			{
+				"text": "游商提醒",
+				"color": "gold"
+			},
+			{
+				"text": "v0.0.1",
+				"color": "green"
+			},
+			{
+				"text": "\nBy Gugle",
+				"color": "green"
+			}
+		]
+	}
+}

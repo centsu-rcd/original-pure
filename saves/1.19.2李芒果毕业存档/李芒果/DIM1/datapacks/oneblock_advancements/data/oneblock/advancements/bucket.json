@@ -1,0 +1,39 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "生锈的桶"
+        },
+        "description": {
+            "text": "制作一个水桶",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:bucket"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+  "criteria": {
+    "bucket": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:bucket"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "bucket"
+    ]
+  ],
+    "parent": "oneblock:iron"
+}
